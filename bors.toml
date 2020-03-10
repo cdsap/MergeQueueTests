@@ -1,4 +1,4 @@
 status = [
-  "ci/circleci: jobname"
+  "ci/circleci: run"
 
 ]
