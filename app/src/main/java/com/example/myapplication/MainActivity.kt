@@ -5,7 +5,7 @@ import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
 //comment pero se sdddiii
-//commendsdddijt pero se sdddiii
+//commendsdddijt perccco se sdddiii
 //comment pero se sdddiii
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
