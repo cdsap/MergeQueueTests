@@ -13,7 +13,7 @@ on:
   pull_request_review:
     types:
       - submitted
-  status: {"ci/circleci: build"}
+  status: {"build-snap"}
 jobs:
   automerge:
     runs-on: ubuntu-latest
